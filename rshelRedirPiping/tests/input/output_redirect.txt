@@ -1,0 +1,6 @@
+echo Text > test.txt
+cat test.txt
+echo Overwritten > test.txt
+cat test.txt
+rm test.txt
+exit

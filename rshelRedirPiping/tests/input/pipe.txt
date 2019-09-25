@@ -1,0 +1,4 @@
+echo Test | cat
+ls -l | head -n1
+ls -l | head -n2 | tail -n1
+exit

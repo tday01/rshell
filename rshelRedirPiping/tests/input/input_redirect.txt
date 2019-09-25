@@ -1,0 +1,5 @@
+echo Text > test.txt
+cat < test.txt
+cat < ../Makefile
+rm test.txt
+exit

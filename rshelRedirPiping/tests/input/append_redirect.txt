@@ -1,0 +1,6 @@
+echo Text > test.txt
+cat test.txt
+echo Appended >> test.txt
+cat test.txt
+rm test.txt
+exit
